@@ -1,0 +1,29 @@
+C:\Users\dell\source\repos\Locutor Didital\Divulgador\bin\Release\Divulgador.exe.config
+C:\Users\dell\source\repos\Locutor Didital\Divulgador\bin\Release\Divulgador.exe.manifest
+C:\Users\dell\source\repos\Locutor Didital\Divulgador\bin\Release\Divulgador.application
+C:\Users\dell\source\repos\Locutor Didital\Divulgador\bin\Release\Divulgador.exe
+C:\Users\dell\source\repos\Locutor Didital\Divulgador\bin\Release\Divulgador.xml
+C:\Users\dell\source\repos\Locutor Didital\Divulgador\bin\Release\Interop.WMPLib.dll
+C:\Users\dell\source\repos\Locutor Didital\Divulgador\bin\Release\AxInterop.WMPLib.dll
+C:\Users\dell\source\repos\Locutor Didital\Divulgador\obj\Release\Divulgador.vbprojAssemblyReference.cache
+C:\Users\dell\source\repos\Locutor Didital\Divulgador\obj\Release\Interop.WMPLib.dll
+C:\Users\dell\source\repos\Locutor Didital\Divulgador\obj\Release\AxInterop.WMPLib.dll
+C:\Users\dell\source\repos\Locutor Didital\Divulgador\obj\Release\Divulgador.vbproj.ResolveComReference.cache
+C:\Users\dell\source\repos\Locutor Didital\Divulgador\obj\Release\Divulgador.DialogKey.resources
+C:\Users\dell\source\repos\Locutor Didital\Divulgador\obj\Release\Divulgador.Form1.resources
+C:\Users\dell\source\repos\Locutor Didital\Divulgador\obj\Release\Divulgador.FormConfig.resources
+C:\Users\dell\source\repos\Locutor Didital\Divulgador\obj\Release\Divulgador.FormLoginRest.resources
+C:\Users\dell\source\repos\Locutor Didital\Divulgador\obj\Release\Divulgador.Formquemsomos.resources
+C:\Users\dell\source\repos\Locutor Didital\Divulgador\obj\Release\Divulgador.FormRestrito.resources
+C:\Users\dell\source\repos\Locutor Didital\Divulgador\obj\Release\Divulgador.FormSobre.resources
+C:\Users\dell\source\repos\Locutor Didital\Divulgador\obj\Release\Divulgador.frmPrincipal.resources
+C:\Users\dell\source\repos\Locutor Didital\Divulgador\obj\Release\Divulgador.Resources.resources
+C:\Users\dell\source\repos\Locutor Didital\Divulgador\obj\Release\Divulgador.vbproj.GenerateResource.cache
+C:\Users\dell\source\repos\Locutor Didital\Divulgador\obj\Release\Divulgador.vbproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Locutor Didital\Divulgador\obj\Release\Divulgador.exe.manifest
+C:\Users\dell\source\repos\Locutor Didital\Divulgador\obj\Release\Divulgador.application
+C:\Users\dell\source\repos\Locutor Didital\Divulgador\obj\Release\Divulgador.exe
+C:\Users\dell\source\repos\Locutor Didital\Divulgador\obj\Release\Divulgador.xml
+C:\Users\PASTOR\source\repos\Locutor Didital Update\Divulgador\obj\Release\Divulgador.vbprojAssemblyReference.cache
+C:\Users\PASTOR\source\repos\Locutor Didital Update\Divulgador\obj\Release\Divulgador.exe
+C:\Users\PASTOR\source\repos\Locutor Didital Update\Divulgador\obj\Release\Divulgador.xml
